@@ -1,0 +1,24 @@
+{
+  "name": "atm-project-fatimaa.f",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atm",
+    "machine",
+    "project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "atm-project-fatimaa.f": "^1.0.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
