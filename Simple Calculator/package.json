@@ -1,0 +1,24 @@
+{
+  "name": "fatimaa.fsimple-calculator",
+  "version": "1.0.4",
+  "description": "A simple calculator with typescript,node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":[
+    "calculator",
+    "simple",
+    "math"
+  ],
+  "author": "Fatima",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer":"^9.0.7"
+  }
+}
