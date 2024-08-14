@@ -1,0 +1,21 @@
+{
+  "name": "currency-converter-fatimaa.f",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ 
+    "simple",
+    "currency",
+    "converter",
+    "project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
